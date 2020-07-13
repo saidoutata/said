@@ -1,77 +1,16 @@
 #EXTM3U
-#EXTINF:21581,2M Monde
-https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/2m_monde/hls_video_ts/2m_monde.m3u8
-#EXTINF:21592,Al Aoula
-https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/al_aoula_inter/hls_snrt/al_aoula_inter.m3u8
-#EXTINF:21592,Al Maghribia
-http://cdn-hls.globecast.tv/live/ramdisk/al_maghribia_snrt/hls_snrt/index.m3u8
-#EXTINF:21589,Arryadia
-http://cdn-hls.globecast.tv/live/ramdisk/arriadia/hls_snrt/index.m3u8
-#EXTINF:7196,BBC Arabic
-https://vs-hls-ww.live.cf.md.bbci.co.uk/pool_902/live/nonuk/bbc_arabic_tv/bbc_arabic_tv.isml/index.m3u8
-#EXTINF:18,Beity
-http://82.212.74.99:8000/live/8164.m3u8
-#EXTINF:4294967,Canadian Arab TV
-http://142.112.39.133:8080/catv.mp4
-#EXTINF:50,Cloudtrend Service
-https://live.cgtn.com/cctv-a.m3u8
-#EXTINF:0,Dubai One
-https://dminnvll.cdn.mangomolo.com/dubaione/smil:dubaione.stream.smil/playlist.m3u8
-#EXTINF:60,MBC
-https://shls-mbc1ksa-prod.shahid.net/mbc1ksa-prod.m3u8
-#EXTINF:60,MBC 2 HD
-https://shls-mbc2-prod.shahid.net/mbc2-prod.m3u8
-#EXTINF:0,MBC 3
-https://shls-mbc3-prod.shahid.net/mbc3-prod.m3u8
-#EXTINF:0,MBC 4
-https://shls-mbc4-prod.shahid.net/mbc4-prod.m3u8
-#EXTINF:0,MBC 5
-https://shls-mbc5-prod.shahid.net/mbc5-prod.m3u8
-#EXTINF:0,MBC Action HD
-https://shls-mbcaction-prod.shahid.net/mbcaction-prod.m3u8
-#EXTINF:0,MBC Bollywood
-https://shls-mbcbollywood-prod.shahid.net/mbcbollywood-prod.m3u8
-#EXTINF:60,MBC Masr 1
-https://shls-masr-prod.shahid.net/masr-prod.m3u8
-#EXTINF:0,MBC Masr 2
-https://shls-masr2-prod.shahid.net/masr2-prod.m3u8
-#EXTINF:0,MBC Max HD
-https://shls-mbcmax-prod.shahid.net/mbcmax-prod.m3u8
-#EXTINF:0,Medi 1 TV Arabic
-https://streaming.medi1tv.com/live/Medi1tvArabia.sdp/playlist.m3u8
-#EXTINF:36,National Geographic Abu Dhabi
-https://admdn2.cdn.mangomolo.com/nagtv/smil:nagtv.stream.smil/playlist.m3u8
-#EXTINF:24,Rotana Cinema HD
-https://rotana.hibridmedia.com/rotana/cinema_dabr/playlist.m3u8
-#EXTINF:0,Rotana Classic HD
-https://rotana.hibridmedia.com/rotana/classical_dabr/playlist.m3u8
-#EXTINF:0,Rotana Comedy HD
-https://rotana.hibridmedia.com/rotana/comedy_dabr/playlist.m3u8
-#EXTINF:0,Rotana Drama HD
-https://rotana.hibridmedia.com/rotana/drama_dabr/playlist.m3u8
-#EXTINF:0,Rotana Khalijia HD
-https://rotana.hibridmedia.com/rotana/khaleejiya_dabr/playlist.m3u8
-#EXTINF:0,Rotana Kids
-https://rotana.hibridmedia.com/rotana/kids_dabr/playlist.m3u8
-#EXTINF:20,RT Arabic
-https://rt-arab.secure.footprint.net/1104.m3u8
-#EXTINF:28,Sky News Arabia
-https://stream.skynewsarabia.com/hls/sna.m3u8
-#EXTINF:48,Sudan TV
-https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/sudan_tv/hls1/sudan_tv.m3u8
-#EXTINF:0,Syria Drama
-http://82.137.248.16:1935/Drama/stream31122019/playlist.m3u8
-#EXTINF:0,Syria Satellite Channel
-http://82.137.248.16:1935/Sat/stream31122019/playlist.m3u8
-#EXTINF:0,Syria TV
-https://svs.itworkscdn.net/syriatvlive/syriatv.smil/playlist.m3u8
-#EXTINF:0,Syrian Education TV
-http://82.137.248.16:1935/SEdu/stream31122019/playlist.m3u8
-#EXTINF:0,Syrian News Channel
-http://82.137.248.16:1935/Snews/stream31122019/playlist.m3u8
-#EXTINF:21586,Tamazight
-http://cdn-hls.globecast.tv/live/ramdisk/tamazight_tv8_snrt/hls_snrt/index.m3u8
-#EXTINF:0,Tamazight
-https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/tamazight_tv8_snrt/hls_snrt/index.m3u8
-#EXTINF:31,Télé Maroc
-https://api.new.livestream.com/accounts/27130247/events/8196478/live.m3u8
+#EXTINF:0,arte 1280x720
+#EXTGRP:unsorted
+https://artelive-lh.akamaihd.net/i/artelive_fr@344805/index_1_av-p.m3u8?sd=10&amp;rebase=on
+#EXTINF:0,arte 960x540
+#EXTGRP:unsorted
+https://artelive-lh.akamaihd.net/i/artelive_fr@344805/index_2_av-b.m3u8?sd=10&amp;rebase=on
+#EXTINF:0,arte 640x360
+#EXTGRP:unsorted
+https://artelive-lh.akamaihd.net/i/artelive_fr@344805/index_3_av-p.m3u8?sd=10&amp;rebase=on
+#EXTINF:0,arte 420x240
+#EXTGRP:unsorted
+https://artelive-lh.akamaihd.net/i/artelive_fr@344805/index_4_av-b.m3u8?sd=10&amp;rebase=on
+#EXTINF:0,arte 320x180
+#EXTGRP:unsorted
+https://artelive-lh.akamaihd.net/i/artelive_fr@344805/index_5_av-p.m3u8?sd=10&amp;rebase=on
