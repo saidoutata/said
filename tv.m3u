@@ -1,16 +1,1 @@
 #EXTM3U
-#EXTINF:0,arte 1280x720
-#EXTGRP:unsorted
-https://artelive-lh.akamaihd.net/i/artelive_fr@344805/index_1_av-p.m3u8?sd=10&amp;rebase=on
-#EXTINF:0,arte 960x540
-#EXTGRP:unsorted
-https://artelive-lh.akamaihd.net/i/artelive_fr@344805/index_2_av-b.m3u8?sd=10&amp;rebase=on
-#EXTINF:0,arte 640x360
-#EXTGRP:unsorted
-https://artelive-lh.akamaihd.net/i/artelive_fr@344805/index_3_av-p.m3u8?sd=10&amp;rebase=on
-#EXTINF:0,arte 420x240
-#EXTGRP:unsorted
-https://artelive-lh.akamaihd.net/i/artelive_fr@344805/index_4_av-b.m3u8?sd=10&amp;rebase=on
-#EXTINF:0,arte 320x180
-#EXTGRP:unsorted
-https://artelive-lh.akamaihd.net/i/artelive_fr@344805/index_5_av-p.m3u8?sd=10&amp;rebase=on
