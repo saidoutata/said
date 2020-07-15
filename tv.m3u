@@ -1,1 +1,17 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="Al Jazeera news ARB" tvg-name="Al Jazeera news ARB" tvg-language="ar" tvg-logo="https://i.imgur.com/x9TQYI3.jpg" tvg-country="QA" tvg-url="" group-title="News",Al Jazeera news
+https://live-hls-web-aja.getaj.net/AJA/01.m3u8
+#EXTINF:-1 tvg-id="Al Jazeera news ARB" tvg-name="Al Jazeera news ARB" tvg-language="ar" tvg-logo="https://i.imgur.com/x9TQYI3.jpg" tvg-country="QA" tvg-url="" group-title="News",Al Jazeera news
+https://live-hls-web-aja.getaj.net/AJA/02.m3u8
+#EXTINF:-1 tvg-id="Al Jazeera news ARB" tvg-name="Al Jazeera news ARB" tvg-language="ar" tvg-logo="https://i.imgur.com/x9TQYI3.jpg" tvg-country="QA" tvg-url="" group-title="News",Al Jazeera news
+https://live-hls-web-aja.getaj.net/AJA/03.m3u8
+#EXTINF:-1 tvg-id="Al Jazeera news ARB" tvg-name="Al Jazeera news ARB" tvg-language="ar" tvg-logo="https://i.imgur.com/x9TQYI3.jpg" tvg-country="QA" tvg-url="" group-title="News",Al Jazeera news
+https://live-hls-web-aja.getaj.net/AJA/04.m3u8
+#EXTINF:-1 tvg-id="Al Jazeera doc ARB" tvg-name="Al Jazeera doc ARB" tvg-language="ar" tvg-logo="https://i.imgur.com/x9TQYI3.jpg" tvg-country="QA" tvg-url="" group-title="News",Al Jazeera doc
+https://live-hls-web-ajd.getaj.net/AJD/01.m3u8
+#EXTINF:-1 tvg-id="Al Jazeera doc ARB" tvg-name="Al Jazeera doc ARB" tvg-language="ar" tvg-logo="https://i.imgur.com/x9TQYI3.jpg" tvg-country="QA" tvg-url="" group-title="News",Al Jazeera doc
+https://live-hls-web-ajd.getaj.net/AJD/02.m3u8
+#EXTINF:-1 tvg-id="Al Jazeera doc ARB" tvg-name="Al Jazeera doc ARB" tvg-language="ar" tvg-logo="https://i.imgur.com/x9TQYI3.jpg" tvg-country="QA" tvg-url="" group-title="News",Al Jazeera doc
+https://live-hls-web-ajd.getaj.net/AJD/03.m3u8
+#EXTINF:-1 tvg-id="Al Jazeera doc ARB" tvg-name="Al Jazeera doc ARB" tvg-language="ar" tvg-logo="https://i.imgur.com/x9TQYI3.jpg" tvg-country="QA" tvg-url="" group-title="News",Al Jazeera doc
+https://live-hls-web-ajd.getaj.net/AJD/04.m3u8
