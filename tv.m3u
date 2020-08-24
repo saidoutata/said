@@ -25,3 +25,5 @@ https://live-hls-web-ajd.getaj.net/AJD/02.m3u8
 https://live-hls-web-ajd.getaj.net/AJD/03.m3u8
 #EXTINF:-1 tvg-id="Al Jazeera doc ARB" tvg-name="Al Jazeera doc ARB" tvg-language="ar" tvg-logo="https://i.imgur.com/x9TQYI3.jpg" tvg-country="QA" tvg-url="" group-title="News",Al Jazeera doc
 https://live-hls-web-ajd.getaj.net/AJD/04.m3u8
+#EXTINF:0,arte HD
+https://artelive-lh.akamaihd.net/i/artelive_fr@344805/index_1_av-p.m3u8?sd=10&amp;rebase=on
