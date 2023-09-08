@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="Al Aoula" tvg-name="Al Aoula Ma" tvg-language="ar" tvg-logo="view-source:https://www.les-voyageuses.net/wp-content/uploads/2017/12/Al-Aoula-logo.jpg" tvg-country="Ma" tvg-url="" group-title="Divers",Al Aoula Live - البث المباشر قناة الأولى,Al Aoula
+#EXTINF:-1 tvg-id="Al Aoula" tvg-name="Al Aoula Ma" tvg-language="ar" tvg-logo="https://www.les-voyageuses.net/wp-content/uploads/2017/12/Al-Aoula-logo.jpg" tvg-country="Ma" tvg-url="" group-title="Divers",Al Aoula Live - البث المباشر قناة الأولى,Al Aoula
 https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/al_aoula_inter/hls_snrt/al_aoula_inter.m3u8
 #EXTINF:0,Tamazight
 https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/tamazight_tv8_snrt/hls_snrt/index.m3u8
