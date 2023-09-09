@@ -25,7 +25,7 @@ https://live-hls-web-ajd.getaj.net/AJD/03.m3u8
 https://live-hls-web-ajd.getaj.net/AJD/04.m3u8
 #EXTINF:-1 tvg-id="Arte" tvg-name="Arte" tvg-language="fr" tvg-logo="https://www.arte.tv/sites/corporate/files/arte-logo_1920x1080-6-470x270.jpg" tvg-country="Eu" tvg-url="" group-title="4",Arte HD
 https://artesimulcast.akamaized.net/hls/live/2031003-b/artelive_fr/master_v720.m3u8
-#EXTINF:-1 tvg-id="CGTN" tvg-name="CGTN Arabic" tvg-language="ar" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhg6YiwCL6FgHTcvYZK8mMSyC9g37RYQcv1u-uSu0Yk0xbsVuHuQiyB7vPTFo7Iys81TL_eCeJSZUuP6aTGVKGVWi7TJ4tSL-0tTyeqYkyPQwKVOuoJWnE01sA4JeRpxutjhTtLyC_gAe5xEnWvXcnQPwKE2EdTdEjGm3GrxZSSQV29_QwXHtve9-Yo/w1200-h630-p-k-no-nu/mbc5.png" tvg-country="CH" tvg-url="" group-title="4",mbc 5
+#EXTINF:-1 tvg-id="mbc5" tvg-name="mbc5" tvg-language="ar" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhg6YiwCL6FgHTcvYZK8mMSyC9g37RYQcv1u-uSu0Yk0xbsVuHuQiyB7vPTFo7Iys81TL_eCeJSZUuP6aTGVKGVWi7TJ4tSL-0tTyeqYkyPQwKVOuoJWnE01sA4JeRpxutjhTtLyC_gAe5xEnWvXcnQPwKE2EdTdEjGm3GrxZSSQV29_QwXHtve9-Yo/w1200-h630-p-k-no-nu/mbc5.png" tvg-country="CH" tvg-url="" group-title="4",mbc 5
 https://shls-mbc5-prod-dub.shahid.net/out/v1/2720564b6a4641658fdfb6884b160da2/index_1.m3u8
 #EXTINF:-1 tvg-id="CGTN" tvg-name="CGTN Arabic" tvg-language="ar" tvg-logo="https://arabic-static.cgtn.com/w/images/icon/logo@3x.png" tvg-country="CH" tvg-url="" group-title="4",CGTN Arabic
 https://livear.cgtn.com/1000a/prog_index.m3u8
