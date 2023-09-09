@@ -3,7 +3,7 @@
 
 #EXTINF:-1 tvg-id="2M" tvg-name="2M" tvg-language="ar" tvg-logo="https://2m.ma/_nuxt/img/2m.86cf83a.png" tvg-country="MA" tvg-url="" group-title="4",2M Ma
 https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/2m_monde/hls_video_ts_tuhawxpiemz257adfc/2m_monde-avc1_1500000=4-mp4a_130400_qad=1.m3u8
-#EXTINF:-1 tvg-id="Al aoula" tvg-name="Al aoula" tvg-language="ar" tvg-logo="https://snrtlive.ma/sites/all/themes/snrtlive/images/alaoula.png" tvg-country="MA" tvg-url="" group-title="4",Al Aoula
+#EXTINF:-1 tvg-id="Al aoula" tvg-name="Al aoula" tvg-language="ar" tvg-logo="https://seeklogo.com/images/A/al-oula-logo-A16E996040-seeklogo.com.png" tvg-country="MA" tvg-url="" group-title="4",Al Aoula
 https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/al_aoula_inter/hls_snrt/al_aoula_inter.m3u8
 #EXTINF:-1 tvg-id="Tamazight" tvg-name="Tamazight" tvg-language="ar" tvg-logo="https://snrtlive.ma/sites/all/themes/snrtlive/images/tamazight.png" tvg-country="MA" tvg-url="" group-title="4",Tamazight
 https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/tamazight_tv8_snrt/hls_snrt/index.m3u8
