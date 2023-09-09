@@ -21,7 +21,7 @@ https://live-hls-web-ajd.getaj.net/AJD/02.m3u8
 https://live-hls-web-ajd.getaj.net/AJD/03.m3u8
 #EXTINF:-1 tvg-id="Al Jazeera doc ARB" tvg-name="Al Jazeera doc ARB" tvg-language="ar" tvg-logo="https://i.imgur.com/x9TQYI3.jpg" tvg-country="QA" tvg-url="" group-title="News",Al Jazeera doc
 https://live-hls-web-ajd.getaj.net/AJD/04.m3u8
-#EXTINF:0,arte HD
+#EXTINF:-1 tvg-id="Arte" tvg-name="Arte" tvg-language="fr" tvg-logo="https://www.arte.tv/sites/corporate/files/arte-logo_1920x1080-6-470x270.jpg" tvg-country="Eu" tvg-url="" group-title="News",Arte HD
 https://artesimulcast.akamaized.net/hls/live/2031003-b/artelive_fr/master_v720.m3u8
 #EXTINF:0,mbc 5
 https://shls-mbc5-prod-dub.shahid.net/out/v1/2720564b6a4641658fdfb6884b160da2/index_1.m3u8
