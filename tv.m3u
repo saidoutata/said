@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="2M" tvg-name="2M" tvg-language="ar" tvg-logo="https://2m.ma/_nuxt/img/2m.86cf83a.png" tvg-country="MA" tvg-url="" group-title="4",2M Ma
+https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/2m_monde/hls_video_ts_tuhawxpiemz257adfc/2m_monde-avc1_1500000=4-mp4a_130400_qad=1.m3u8
 #EXTINF:-1 tvg-id="Al aoula" tvg-name="Al aoula" tvg-language="ar" tvg-logo="http://snrtlive.ma/sites/all/themes/snrtlive/images/alaoula.png" tvg-country="MA" tvg-url="" group-title="4",Al Aoula
 https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/al_aoula_inter/hls_snrt/al_aoula_inter.m3u8
 #EXTINF:-1 tvg-id="Tamazight" tvg-name="Tamazight" tvg-language="ar" tvg-logo="http://snrtlive.ma/sites/all/themes/snrtlive/images/tamazight.png" tvg-country="MA" tvg-url="" group-title="4",Tamazight
@@ -27,5 +29,3 @@ https://artesimulcast.akamaized.net/hls/live/2031003-b/artelive_fr/master_v720.m
 https://shls-mbc5-prod-dub.shahid.net/out/v1/2720564b6a4641658fdfb6884b160da2/index_1.m3u8
 #EXTINF:-1 tvg-id="CGTN" tvg-name="CGTN Arabic" tvg-language="ar" tvg-logo="https://arabic-static.cgtn.com/w/images/icon/logo@3x.png" tvg-country="CH" tvg-url="" group-title="4",CGTN Arabic
 https://livear.cgtn.com/1000a/prog_index.m3u8
-#EXTINF:-1 tvg-id="2M" tvg-name="2M" tvg-language="ar" tvg-logo="https://2m.ma/_nuxt/img/2m.86cf83a.png" tvg-country="MA" tvg-url="" group-title="4",2M Ma
-https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/2m_monde/hls_video_ts_tuhawxpiemz257adfc/2m_monde-avc1_1500000=4-mp4a_130400_qad=1.m3u8
