@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ar" tvg-logo="https://static.wixstatic.com/media/a77849_5de919ff1e8845f2a8d206e2de5c4aec~mv2.webp" tvg-country="MA" tvg-url="" group-title="4",--
-#EXTINF:-1 tvg-id="2M" tvg-name="2M" tvg-language="ar" tvg-logo="https://2m.ma/_nuxt/img/2m.86cf83a.png" tvg-country="MA" tvg-url="" group-title="4",2M Ma
+#EXTINF:-1 tvg-id="2M" tvg-name="2M" tvg-language="ar" tvg-logo="https://t3.ftcdn.net/jpg/04/51/58/76/360_F_451587634_iVJKobsbjLpbtBY0HTkZ2tzgUVGHfzEU.jpg" tvg-country="MA" tvg-url="" group-title="4",2M Ma
 https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/2m_monde/hls_video_ts_tuhawxpiemz257adfc/2m_monde-avc1_1500000=4-mp4a_130400_qad=1.m3u8
 #EXTINF:-1 tvg-id="2M" tvg-name="2M" tvg-language="ar" tvg-logo="https://2m.ma/_nuxt/img/2m.86cf83a.png" tvg-country="MA" tvg-url="" group-title="4",2M Ma
 https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/2m_monde/hls_video_ts_tuhawxpiemz257adfc/2m_monde-avc1_1500000=4-mp4a_130400_qad=1.m3u8
