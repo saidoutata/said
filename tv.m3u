@@ -34,3 +34,5 @@ https://shls-mbc5-prod-dub.shahid.net/out/v1/2720564b6a4641658fdfb6884b160da2/in
 https://livear.cgtn.com/1000a/prog_index.m3u8
 #EXTINF:-1 tvg-id="Dw ar" tvg-name="Dw Arabic" tvg-language="ar" tvg-logo="https://www.dw.com/cssi/dwlogo-print.gif" tvg-country="Ge" tvg-url="" group-title="4",Dw Ar
 https://dwamdstream103.akamaized.net/hls/live/2015526/dwstream103/stream05/streamPlaylist.m3u8
+#EXTINF:-1 tvg-id="NHK" tvg-name="NHK jp" tvg-language="Er" tvg-logo="https://seeklogo.com/images/N/nhk-world-japan-logo-CB3D1956DE-seeklogo.com.png" tvg-country="jp" tvg-url="" group-title="4",NHK jp
+https://b-nhkwlive-xjp.nhkworld.jp/hls/live/2003458-b/nhkwlive-xjp-en/index_1M.m3u8
