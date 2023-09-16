@@ -32,3 +32,5 @@ https://artesimulcast.akamaized.net/hls/live/2031003-b/artelive_fr/master_v720.m
 https://shls-mbc5-prod-dub.shahid.net/out/v1/2720564b6a4641658fdfb6884b160da2/index_1.m3u8
 #EXTINF:-1 tvg-id="CGTN" tvg-name="CGTN Arabic" tvg-language="ar" tvg-logo="https://arabic-static.cgtn.com/w/images/icon/logo@3x.png" tvg-country="CH" tvg-url="" group-title="4",CGTN Arabic
 https://livear.cgtn.com/1000a/prog_index.m3u8
+#EXTINF:-1 tvg-id="Dw ar" tvg-name="Dw Arabic" tvg-language="ar" tvg-logo="https://www.dw.com/cssi/dwlogo-print.gif" tvg-country="Ge" tvg-url="" group-title="4",Dw Ar
+https://dwamdstream103.akamaized.net/hls/live/2015526/dwstream103/stream05/streamPlaylist.m3u8
