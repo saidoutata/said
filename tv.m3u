@@ -1,8 +1,4 @@
 #EXTM3U
-#EXT-X-VERSION:3
-#EXT-X-STREAM-INF:BANDWIDTH=105600,RESOLUTION=1280x720,CODECS="avc1.64001f,mp4a.40.2"
-#EXTINF:-1 tvg-id="test " tvg-name="said tv" tvg-language="ar" tvg-logo="https://e1.pngegg.com/pngimages/259/287/png-clipart-metrostation-tv-logo-thumbnail.png" tvg-country="MA" tvg-url="" group-title="4",Tv de Said
-https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/al_aoula_inter/hls_snrt/al_aoula_inter.m3u8
 #EXTINF:-1 tvg-id="Said tv " tvg-name="said tv" tvg-language="ar" tvg-logo="https://e1.pngegg.com/pngimages/259/287/png-clipart-metrostation-tv-logo-thumbnail.png" tvg-country="MA" tvg-url="" group-title="4",Tv de Said
 https://iptvdesaid.m3u8
 #EXTINF:-1 tvg-id="2M" tvg-name="2M" tvg-language="ar" tvg-logo="https://seeklogo.com/images/1/2m-tv-logo-D81F40FE04-seeklogo.com.png" tvg-country="MA" tvg-url="" group-title="4",2M Ma
