@@ -9,21 +9,21 @@ https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/2m_monde/hls_video_ts_tu
 https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/2m_monde/hls_video_ts_tuhawxpiemz257adfc/2m_monde-avc1_1500000=4-mp4a_130400_qad=1.m3u8
 #EXTINF:-1 tvg-id="Arriyadia" tvg-name="Arriaddya" tvg-language="ar" tvg-logo="https://seeklogo.com/images/A/arryadia-logo-F2FAC7054A-seeklogo.com.png" tvg-country="MA" tvg-url="" group-title="4",Arriadya
 https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/2m_monde/hls_video_ts_tuhawxpiemz257adfc/2m_monde-avc1_1500000=4-mp4a_130400_qad=1.m3u8
-#EXTINF:-1 tvg-id="Al Jazeera news ARB" tvg-name="Al Jazeera news ARB" tvg-language="ar" tvg-logo="https://i.imgur.com/x9TQYI3.jpg" tvg-country="QA" tvg-url="" group-title="News",Al Jazeera news
+#EXTINF:-1 tvg-id="Al Jazeera news ARB" tvg-name="Al Jazeera news ARB" tvg-language="ar" tvg-logo="https://seeklogo.com/images/A/Aljazeera_Net-logo-5F3FB4D040-seeklogo.com.png" tvg-country="QA" tvg-url="" group-title="News",Al Jazeera news
 https://live-hls-web-aja.getaj.net/AJA/01.m3u8
-#EXTINF:-1 tvg-id="Al Jazeera news ARB" tvg-name="Al Jazeera news ARB" tvg-language="ar" tvg-logo="https://i.imgur.com/x9TQYI3.jpg" tvg-country="QA" tvg-url="" group-title="News",Al Jazeera news
+#EXTINF:-1 tvg-id="Al Jazeera news ARB" tvg-name="Al Jazeera news ARB" tvg-language="ar" tvg-logo="https://seeklogo.com/images/A/Aljazeera_Net-logo-5F3FB4D040-seeklogo.com.png" tvg-country="QA" tvg-url="" group-title="News",Al Jazeera news
 https://live-hls-web-aja.getaj.net/AJA/02.m3u8
-#EXTINF:-1 tvg-id="Al Jazeera news ARB" tvg-name="Al Jazeera news ARB" tvg-language="ar" tvg-logo="https://i.imgur.com/x9TQYI3.jpg" tvg-country="QA" tvg-url="" group-title="News",Al Jazeera news
+#EXTINF:-1 tvg-id="Al Jazeera news ARB" tvg-name="Al Jazeera news ARB" tvg-language="ar" tvg-logo="https://seeklogo.com/images/A/Aljazeera_Net-logo-5F3FB4D040-seeklogo.com.png" tvg-country="QA" tvg-url="" group-title="News",Al Jazeera news
 https://live-hls-web-aja.getaj.net/AJA/03.m3u8
-#EXTINF:-1 tvg-id="Al Jazeera news ARB" tvg-name="Al Jazeera news ARB" tvg-language="ar" tvg-logo="https://i.imgur.com/x9TQYI3.jpg" tvg-country="QA" tvg-url="" group-title="News",Al Jazeera news
+#EXTINF:-1 tvg-id="Al Jazeera news ARB" tvg-name="Al Jazeera news ARB" tvg-language="ar" tvg-logo="https://seeklogo.com/images/A/Aljazeera_Net-logo-5F3FB4D040-seeklogo.com.png" tvg-country="QA" tvg-url="" group-title="News",Al Jazeera news
 https://live-hls-web-aja.getaj.net/AJA/04.m3u8
-#EXTINF:-1 tvg-id="Al Jazeera doc ARB" tvg-name="Al Jazeera doc ARB" tvg-language="ar" tvg-logo="https://i.imgur.com/x9TQYI3.jpg" tvg-country="QA" tvg-url="" group-title="News",Al Jazeera doc
+#EXTINF:-1 tvg-id="Al Jazeera doc ARB" tvg-name="Al Jazeera doc ARB" tvg-language="ar" tvg-logo="https://ar.ra2ya.com/wp-content/uploads/2021/01/unnamed-7-1-360x360.jpg" tvg-country="QA" tvg-url="" group-title="News",Al Jazeera doc
 https://live-hls-web-ajd.getaj.net/AJD/01.m3u8
-#EXTINF:-1 tvg-id="Al Jazeera doc ARB" tvg-name="Al Jazeera doc ARB" tvg-language="ar" tvg-logo="https://i.imgur.com/x9TQYI3.jpg" tvg-country="QA" tvg-url="" group-title="News",Al Jazeera doc
+#EXTINF:-1 tvg-id="Al Jazeera doc ARB" tvg-name="Al Jazeera doc ARB" tvg-language="ar" tvg-logo="https://ar.ra2ya.com/wp-content/uploads/2021/01/unnamed-7-1-360x360.jpg" tvg-country="QA" tvg-url="" group-title="News",Al Jazeera doc
 https://live-hls-web-ajd.getaj.net/AJD/02.m3u8
-#EXTINF:-1 tvg-id="Al Jazeera doc ARB" tvg-name="Al Jazeera doc ARB" tvg-language="ar" tvg-logo="https://i.imgur.com/x9TQYI3.jpg" tvg-country="QA" tvg-url="" group-title="News",Al Jazeera doc
+#EXTINF:-1 tvg-id="Al Jazeera doc ARB" tvg-name="Al Jazeera doc ARB" tvg-language="ar" tvg-logo="https://ar.ra2ya.com/wp-content/uploads/2021/01/unnamed-7-1-360x360.jpg" tvg-country="QA" tvg-url="" group-title="News",Al Jazeera doc
 https://live-hls-web-ajd.getaj.net/AJD/03.m3u8
-#EXTINF:-1 tvg-id="Al Jazeera doc ARB" tvg-name="Al Jazeera doc ARB" tvg-language="ar" tvg-logo="https://i.imgur.com/x9TQYI3.jpg" tvg-country="QA" tvg-url="" group-title="News",Al Jazeera doc
+#EXTINF:-1 tvg-id="Al Jazeera doc ARB" tvg-name="Al Jazeera doc ARB" tvg-language="ar" tvg-logo="https://ar.ra2ya.com/wp-content/uploads/2021/01/unnamed-7-1-360x360.jpg" tvg-country="QA" tvg-url="" group-title="News",Al Jazeera doc
 https://live-hls-web-ajd.getaj.net/AJD/04.m3u8
 #EXTINF:-1 tvg-id="Arte" tvg-name="Arte" tvg-language="fr" tvg-logo="https://www.arte.tv/sites/corporate/files/arte-logo_1920x1080-6-470x270.jpg" tvg-country="Eu" tvg-url="" group-title="4",Arte HD
 https://artesimulcast.akamaized.net/hls/live/2031003-b/artelive_fr/master_v720.m3u8
