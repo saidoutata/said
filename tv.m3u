@@ -30,7 +30,7 @@ https://artesimulcast.akamaized.net/hls/live/2031003-b/artelive_fr/master_v720.m
 #EXTINF:-1 tvg-id="mbc5" tvg-name="mbc5" tvg-language="ar" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhg6YiwCL6FgHTcvYZK8mMSyC9g37RYQcv1u-uSu0Yk0xbsVuHuQiyB7vPTFo7Iys81TL_eCeJSZUuP6aTGVKGVWi7TJ4tSL-0tTyeqYkyPQwKVOuoJWnE01sA4JeRpxutjhTtLyC_gAe5xEnWvXcnQPwKE2EdTdEjGm3GrxZSSQV29_QwXHtve9-Yo/w1200-h630-p-k-no-nu/mbc5.png" tvg-country="CH" tvg-url="" group-title="4",mbc 5
 https://shls-mbc5-prod-dub.shahid.net/out/v1/2720564b6a4641658fdfb6884b160da2/index_1.m3u8
 #EXTINF:-1 tvg-id="CGTN" tvg-name="CGTN Arabic" tvg-language="ar" tvg-logo="https://arabic-static.cgtn.com/w/images/icon/logo@3x.png" tvg-country="CH" tvg-url="" group-title="4",CGTN Arabic
-https://livear.cgtn.com/1000a/prog_index.m3u8
+https://arabic-livews.cgtn.com/hls/LSveq57bErWLinBnxosqjisZ220802LSTefTAS9zc9mpU08y3np9TH220802cd/playlist.m3u8
 #EXTINF:-1 tvg-id="Dw ar" tvg-name="Dw Arabic" tvg-language="ar" tvg-logo="https://www.dw.com/cssi/dwlogo-print.gif" tvg-country="Ge" tvg-url="" group-title="4",Dw Ar
 https://dwamdstream103.akamaized.net/hls/live/2015526/dwstream103/stream05/streamPlaylist.m3u8
 #EXTINF:-1 tvg-id="NHK" tvg-name="NHK jp" tvg-language="Er" tvg-logo="https://seeklogo.com/images/N/nhk-world-japan-logo-CB3D1956DE-seeklogo.com.png" tvg-country="jp" tvg-url="" group-title="4",NHK jp
