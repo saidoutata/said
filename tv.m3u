@@ -2,7 +2,7 @@
 #EXTINF:-1 tvg-id="Said tv " tvg-name="said tv" tvg-language="ar" tvg-logo="https://e1.pngegg.com/pngimages/259/287/png-clipart-metrostation-tv-logo-thumbnail.png" tvg-country="MA" tvg-url="" group-title="4",Tv de Said
 https://iptvdesaid.m3u8
 #EXTINF:-1 tvg-id="2M" tvg-name="2M" tvg-language="ar" tvg-logo="https://seeklogo.com/images/1/2m-tv-logo-D81F40FE04-seeklogo.com.png" tvg-country="MA" tvg-url="" group-title="4",2M Ma
-https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/2m_monde/hls_video_ts_tuhawxpiemz257adfc/2m_monde-avc1_1500000=4-mp4a_130400_qad=1.m3u8
+https://fl1002.bozztv.com/ga-2mmaroc-hd/index.m3u8
 #EXTINF:-1 tvg-id="Al aoula" tvg-name="Al aoula" tvg-language="ar" tvg-logo="https://seeklogo.com/images/A/al-oula-logo-A16E996040-seeklogo.com.png" tvg-country="MA" tvg-url="" group-title="4",Al Aoula
 https://cdn.live.easybroadcast.io/ts_corp/73_aloula_w1dqfwm/playlist_dvr.m3u8
 #EXTINF:-1 tvg-id="Tamazight" tvg-name="Tamazight" tvg-language="ar" tvg-logo="https://www.haca.ma/sites/default/files/upload/images/tamazight.png" tvg-country="MA" tvg-url="" group-title="4",Tamazight
