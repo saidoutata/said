@@ -30,7 +30,7 @@ https://live-hls-web-ajd.getaj.net/AJD/04.m3u8
 #EXTINF:-1 tvg-id="Arte" tvg-name="Arte" tvg-language="fr" tvg-logo="https://www.arte.tv/sites/corporate/files/arte-logo_1920x1080-6-470x270.jpg" tvg-country="Eu" tvg-url="" group-title="4",Arte HD
 https://artesimulcast.akamaized.net/hls/live/2031003-b/artelive_fr/master_v720.m3u8
 #EXTINF:-1 tvg-id="mbc5" tvg-name="mbc5" tvg-language="ar" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhg6YiwCL6FgHTcvYZK8mMSyC9g37RYQcv1u-uSu0Yk0xbsVuHuQiyB7vPTFo7Iys81TL_eCeJSZUuP6aTGVKGVWi7TJ4tSL-0tTyeqYkyPQwKVOuoJWnE01sA4JeRpxutjhTtLyC_gAe5xEnWvXcnQPwKE2EdTdEjGm3GrxZSSQV29_QwXHtve9-Yo/w1200-h630-p-k-no-nu/mbc5.png" tvg-country="CH" tvg-url="" group-title="4",mbc 5
-https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-5/ee6b000cee0629411b666ab26cb13e9b/manifest/video/1080p2400kbps/video.m3u8
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-5/ee6b000cee0629411b666ab26cb13e9b/index.m3u8
 #EXTINF:-1 tvg-id="CGTN" tvg-name="CGTN Arabic" tvg-language="ar" tvg-logo="https://arabic-static.cgtn.com/w/images/icon/logo@3x.png" tvg-country="CH" tvg-url="" group-title="4",CGTN Arabic
 https://arabic-livews.cgtn.com/hls/LSveq57bErWLinBnxosqjisZ220802LSTefTAS9zc9mpU08y3np9TH220802cd/playlist.m3u8
 #EXTINF:-1 tvg-id="Dw ar" tvg-name="Dw Arabic" tvg-language="ar" tvg-logo="https://www.dw.com/cssi/dwlogo-print.gif" tvg-country="Ge" tvg-url="" group-title="4",Dw Ar
