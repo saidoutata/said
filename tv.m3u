@@ -6,7 +6,7 @@ https://fl1002.bozztv.com/ga-2mmaroc-hd/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="Al aoula" tvg-name="Al aoula" tvg-language="ar" tvg-logo="https://seeklogo.com/images/A/al-oula-logo-A16E996040-seeklogo.com.png" tvg-country="MA" tvg-url="" group-title="4",Al Aoula
 https://cdn.live.easybroadcast.io/ts_corp/73_aloula_w1dqfwm/playlist_dvr.m3u8
 #EXTINF:-1 tvg-id="Tamazight" tvg-name="Tamazight" tvg-language="ar" tvg-logo="https://www.haca.ma/sites/default/files/upload/images/tamazight.png" tvg-country="MA" tvg-url="" group-title="4",Tamazight
-https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/2m_monde/hls_video_ts_tuhawxpiemz257adfc/2m_monde-avc1_1500000=4-mp4a_130400_qad=1.m3u8
+https://cdn.live.easybroadcast.io/ts_corp/73_tamazight_tccybxt/corp/73_tamazight_tccybxt_240p/chunks_dvr.m3u8
 #EXTINF:-1 tvg-id="Arriyadia" tvg-name="Arriaddya" tvg-language="ar" tvg-logo="https://seeklogo.com/images/A/arryadia-logo-F2FAC7054A-seeklogo.com.png" tvg-country="MA" tvg-url="" group-title="4",Arriadya
 https://cdn.live.easybroadcast.io/abr_corp/73_arryadia_k2tgcj0/corp/73_arryadia_k2tgcj0_480p/chunks_dvr.m3u8
 #EXTINF:-1 tvg-id="Al Jazeera news ARB" tvg-name="Al Jazeera news ARB" tvg-language="ar" tvg-logo="https://seeklogo.com/images/A/Aljazeera_Net-logo-5F3FB4D040-seeklogo.com.png" tvg-country="QA" tvg-url="" group-title="News",Al Jazeera news
