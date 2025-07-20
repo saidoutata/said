@@ -3,7 +3,7 @@
 https://iptvdesaid.m3u8
 #EXTINF:-1 tvg-id="2M" tvg-name="2M" tvg-language="ar" tvg-logo="https://seeklogo.com/images/1/2m-tv-logo-D81F40FE04-seeklogo.com.png" tvg-country="MA" tvg-url="" group-title="4",2M Ma
 https://fl1002.bozztv.com/ga-2mmaroc-hd/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-id="Al aoula" tvg-name="Al aoula" tvg-language="ar" tvg-logo="https://seeklogo.com/images/A/al-oula-logo-A16E996040-seeklogo.com.png" tvg-country="MA" tvg-url="" group-title="4",Al Aoula
+#EXTINF:-1 tvg-id="Al aoula" tvg-name="Al aoula" tvg-language="ar" tvg-logo="https://snrtlive.ma/sites/default/files/styles/vignette/public/2023-03/alaoula-16x9.jpeg?itok=Kym2z7M1" tvg-country="MA" tvg-url="" group-title="4",Al Aoula
 https://cdn.live.easybroadcast.io/ts_corp/73_aloula_w1dqfwm/playlist_dvr.m3u8
 #EXTINF:-1 tvg-id="Aflam7" tvg-name="Aflam7" tvg-language="ar" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcROKYOm8zepR_zVUvT5NXQ0NcVyufC58KRKyw&s" tvg-country="MA" tvg-url="" group-title="4",Aflam7
 https://fl1002.bozztv.com/ga-aflamtv7/index.m3u8
