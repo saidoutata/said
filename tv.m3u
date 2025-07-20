@@ -11,7 +11,7 @@ https://fl1002.bozztv.com/ga-aflamtv7/index.m3u8
 https://cdn.live.easybroadcast.io/ts_corp/73_tamazight_tccybxt/corp/73_tamazight_tccybxt_240p/chunks_dvr.m3u8
 #EXTINF:-1 tvg-id="Arriyadia" tvg-name="Arriaddya" tvg-language="ar" tvg-logo="https://snrtlive.ma/sites/default/files/styles/vignette/public/2023-04/arriyadia-16x9.jpeg?itok=ei_LOKyM" tvg-country="MA" tvg-url="" group-title="4",Arriadya
 https://cdn.live.easybroadcast.io/abr_corp/73_arryadia_k2tgcj0/corp/73_arryadia_k2tgcj0_480p/chunks_dvr.m3u8
-#EXTINF:-1 tvg-id="Al Jazeera news ARB" tvg-name="Al Jazeera news ARB" tvg-language="ar" tvg-logo="https://network.aljazeera.net/sites/default/files/press/2022/shr_ljzyr_lnjlyzy_-_sly_0.png" tvg-country="QA" tvg-url="" group-title="News",Al Jazeera news
+#EXTINF:-1 tvg-id="Al Jazeera news ARB" tvg-name="Al Jazeera news ARB" tvg-language="ar" tvg-logo="https://logos-world.net/wp-content/uploads/2023/04/Al-Jazeera-Logo.png" tvg-country="QA" tvg-url="" group-title="News",Al Jazeera news
 https://live-hls-web-aja.getaj.net/AJA/01.m3u8
 #EXTINF:-1 tvg-id="Al Jazeera news ARB" tvg-name="Al Jazeera news ARB" tvg-language="ar" tvg-logo="https://network.aljazeera.net/sites/default/files/press/2022/shr_ljzyr_lnjlyzy_-_sly_0.png" tvg-country="QA" tvg-url="" group-title="News",Al Jazeera news
 https://live-hls-web-aja.getaj.net/AJA/02.m3u8
