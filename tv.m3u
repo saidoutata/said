@@ -2,7 +2,7 @@
 #EXTINF:-1 tvg-id="Said tv " tvg-name="said tv" tvg-language="ar" tvg-logo="https://e1.pngegg.com/pngimages/259/287/png-clipart-metrostation-tv-logo-thumbnail.png" tvg-country="MA" tvg-url="" group-title="4",Tv de Said
 https://iptvdesaid.m3u8
 #EXTINF:-1 tvg-id="2M" tvg-name="2M" tvg-language="ar" tvg-logo="https://play-lh.googleusercontent.com/PTvwwORrQlWygaKsFQt12X-8i4RmrVpkqAeI0i759EWcOSDMjUBi2erFEQqw9D51Xm8=w240-h480-rw" tvg-country="MA" tvg-url="" group-title="4",2M Ma
-https://fl1002.bozztv.com/ga-2mmaroc-hd/tracks-v1a1/mono.ts.m3u8
+https://d2qh3gh0k5vp3v.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-n6pess5lwbghr/ecc6f940-bf6c-4052-b792-611ec33fba1a/3.m3u8
 #EXTINF:-1 tvg-id="Al aoula" tvg-name="Al aoula" tvg-language="ar" tvg-logo="https://snrtlive.ma/sites/default/files/styles/vignette/public/2023-03/alaoula-16x9.jpeg?itok=Kym2z7M1" tvg-country="MA" tvg-url="" group-title="4",Al Aoula
 https://cdn.live.easybroadcast.io/ts_corp/73_aloula_w1dqfwm/playlist_dvr.m3u8
 #EXTINF:-1 tvg-id="Aflam7" tvg-name="Aflam7" tvg-language="ar" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcROKYOm8zepR_zVUvT5NXQ0NcVyufC58KRKyw&s" tvg-country="MA" tvg-url="" group-title="4",Aflam7
