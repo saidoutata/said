@@ -5,8 +5,8 @@ https://iptvdesaid.m3u8
 https://d2qh3gh0k5vp3v.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-n6pess5lwbghr/ecc6f940-bf6c-4052-b792-611ec33fba1a/3.m3u8
 #EXTINF:-1 tvg-id="Al aoula" tvg-name="Al aoula" tvg-language="ar" tvg-logo="https://snrtlive.ma/sites/default/files/styles/vignette/public/2023-03/alaoula-16x9.jpeg?itok=Kym2z7M1" tvg-country="MA" tvg-url="" group-title="4",Al Aoula
 https://cdn.live.easybroadcast.io/ts_corp/73_aloula_w1dqfwm/playlist_dvr.m3u8
-#EXTINF:-1 tvg-id="Aflam7" tvg-name="Aflam7" tvg-language="ar" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcROKYOm8zepR_zVUvT5NXQ0NcVyufC58KRKyw&s" tvg-country="MA" tvg-url="" group-title="4",Aflam7
-https://fl1002.bozztv.com/ga-aflamtv7/index.m3u8
+#EXTINF:-1 tvg-id="Al maghribia" tvg-name="Aflam7" tvg-language="ar" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcROKYOm8zepR_zVUvT5NXQ0NcVyufC58KRKyw&s" tvg-country="MA" tvg-url="" group-title="4",Al maghribia 
+https://cdn.live.easybroadcast.io/abr_corp/73_almaghribia_83tz85q/corp/73_almaghribia_83tz85q_480p/chunks_dvr.m3u8
 #EXTINF:-1 tvg-id="Tamazight" tvg-name="Tamazight" tvg-language="ar" tvg-logo="https://snrtlive.ma/sites/default/files/styles/vignette/public/2023-04/tamazight-16x9.jpeg?itok=4Ktgxxyx" tvg-country="MA" tvg-url="" group-title="4",Tamazight
 https://cdn.live.easybroadcast.io/ts_corp/73_tamazight_tccybxt/corp/73_tamazight_tccybxt_240p/chunks_dvr.m3u8
 #EXTINF:-1 tvg-id="Arriyadia" tvg-name="Arriaddya" tvg-language="ar" tvg-logo="https://snrtlive.ma/sites/default/files/styles/vignette/public/2023-04/arriyadia-16x9.jpeg?itok=ei_LOKyM" tvg-country="MA" tvg-url="" group-title="4",Arriadya
