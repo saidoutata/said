@@ -32,7 +32,7 @@ https://artesimulcast.akamaized.net/hls/live/2031003-b/artelive_fr/master_v720.m
 #EXTINF:-1 tvg-id="mbc5" tvg-name="mbc5" tvg-language="ar" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhg6YiwCL6FgHTcvYZK8mMSyC9g37RYQcv1u-uSu0Yk0xbsVuHuQiyB7vPTFo7Iys81TL_eCeJSZUuP6aTGVKGVWi7TJ4tSL-0tTyeqYkyPQwKVOuoJWnE01sA4JeRpxutjhTtLyC_gAe5xEnWvXcnQPwKE2EdTdEjGm3GrxZSSQV29_QwXHtve9-Yo/w1200-h630-p-k-no-nu/mbc5.png" tvg-country="CH" tvg-url="" group-title="4",mbc 5
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-5/ee6b000cee0629411b666ab26cb13e9b/index.m3u8
 #EXTINF:-1 tvg-id="CGTN" tvg-name="CGTN Arabic" tvg-language="ar" tvg-logo="https://arabic-static.cgtn.com/w/images/icon/logo@3x.png" tvg-country="CH" tvg-url="" group-title="4",CGTN Arabic
-https://arabic-livetx-h5.cgtn.com/hls/LSveq57bErWLinBnxosqjisZ220802LSTefTAS9zc9mpU08y3np9TH220802cd/playlist.m3u8?wsSecret=ab46f672036d489c48644dc36b03e959&wsTime=1787229388
+https://arabic-livetx-h5.cgtn.com/hls/LSveq57bErWLinBnxosqjisZ220802LSTefTAS9zc9mpU08y3np9TH220802cd/playlist.m3u8?wsSecret=00342343a769f955807193f81023b6d7&wsTime=1787947163
 #EXTINF:-1 tvg-id="Dw ar" tvg-name="Dw Arabic" tvg-language="ar" tvg-logo="https://www.dw.com/cssi/dwlogo-print.gif" tvg-country="Ge" tvg-url="" group-title="4",Dw Ar
 https://dwamdstream103.akamaized.net/hls/live/2015526/dwstream103/stream05/streamPlaylist.m3u8
 #EXTINF:-1 tvg-id="NHK" tvg-name="NHK jp" tvg-language="Er" tvg-logo="https://pbs.twimg.com/profile_images/781790577390039040/5-Umq3Kb_400x400.jpg" tvg-country="jp" tvg-url="" group-title="4",NHK jp
